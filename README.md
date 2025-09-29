@@ -6,7 +6,7 @@ Verma;A+Full+Stack+Developer!;Turning+caffeine+into+clean+code!" /> </p>
 <img align ="right" alt="coding" width = "400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg" >
 
 
-- 💬 Ask me about **Java, Javascript and C.**
+- 💬 Ask me about **Java, Javascript, C and C++.**
 
 - 📫 Reach me **yashverma46563@gmail.com**
 
