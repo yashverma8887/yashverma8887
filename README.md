@@ -16,6 +16,7 @@ Verma;A+Full+Stack+Developer!;Turning+caffeine+into+clean+code!" /> </p>
 <p align="left">
 <a href="https://instagram.com/yashverma8887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashverma8887" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashverma8887" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashverma8887" height="30" width="40" /></a>
+<a href="https://x.com/home" target="blank"><img align="center" src="https://www.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_57642948.htm#fromView=keyword&page=1&position=2&uuid=0ceeba99-1a56-41d3-823b-d94f2e693a5b&query=Twitter+logo" alt="yashverma_7" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages and Tools:
